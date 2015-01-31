@@ -1,7 +1,7 @@
 /*
  * File: Breakout.java
  * -------------------
- * Name: SHANKUL JAIN
+ * Author: SHANKUL JAIN
  * DATE: 11 FEB 2014
  * 
  * This file will eventually implement the game of Breakout.
