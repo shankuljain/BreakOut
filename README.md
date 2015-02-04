@@ -2,7 +2,7 @@
 Classic Arcade Breakout game invented by Steve Wozniak before he founded Apple with Steve Jobs.
 
 This program uses ACM library created by 'Java Task Force'. You can download the .jar file and source file
-on both this link in order to work the program correctly. http://jtf.acm.org
+both on this link in order to compile the program successfully. http://jtf.acm.org
 
 Program also uses an audio file for sound effects.
 
